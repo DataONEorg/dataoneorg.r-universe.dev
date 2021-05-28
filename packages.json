@@ -8,6 +8,14 @@
         "url": "https://github.com/ropensci/datapack"
     },
     {
+        "package": "EML",
+        "url": "https://github.com/ropensci/EML"
+    },
+    {
+        "package": "scythe",
+        "url": "https://github.com/DataONEorg/scythe"
+    },
+    {
         "package": "recordr",
         "url": "https://github.com/NCEAS/recordr"
     },
