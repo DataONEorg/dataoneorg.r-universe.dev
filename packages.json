@@ -16,8 +16,8 @@
         "url": "https://github.com/NCEAS/metajam"
     },
     {
-        "package": "datmgmt",
-        "url": "https://github.com/NCEAS/datmgmt"
+        "package": "datamgmt",
+        "url": "https://github.com/NCEAS/datamgmt"
     },
     {
         "package": "arcticdatautils",
@@ -34,9 +34,5 @@
     {
         "package": "codyn",
         "url": "https://github.com/NCEAS/codyn"
-    },
-    {
-        "package": "redland",
-        "url": "https://github.com/ropensci/redland-bindings/tree/master/R/redland"
     }
 ]
