@@ -12,6 +12,18 @@
         "url": "https://github.com/ropensci/EML"
     },
     {
+        "package": "metajam",
+        "url": "https://github.com/NCEAS/metajam"
+    },
+    {
+        "package": "datmgmt",
+        "url": "https://github.com/NCEAS/datmgmt"
+    },
+    {
+        "package": "arcticdatautils",
+        "url": "https://github.com/NCEAS/arcticdatautils"
+    },
+    {
         "package": "scythe",
         "url": "https://github.com/DataONEorg/scythe"
     },
