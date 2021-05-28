@@ -1,0 +1,14 @@
+[
+    {
+        "package": "dataone",
+        "url": "https://github.com/DataONEorg/rdataone"
+    },
+    {
+        "package": "datapack",
+        "url": "https://github.com/ropensci/datapack"
+    },
+    {
+        "package": "recordr",
+        "url": "https://github.com/NCEAS/recordr"
+    }
+]
