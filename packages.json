@@ -32,6 +32,10 @@
         "url": "https://github.com/NCEAS/recordr"
     },
     {
+        "package": "redland",
+        "url": "https://github.com/DataONEorg/redland-bindings/R/redland"
+    },
+    {
         "package": "codyn",
         "url": "https://github.com/NCEAS/codyn"
     }
