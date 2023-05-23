@@ -12,6 +12,10 @@
         "url": "https://github.com/ropensci/EML"
     },
     {
+        "package": "emld",
+        "url": "https://github.com/ropensci/emld"
+    },
+    {
         "package": "metajam",
         "url": "https://github.com/NCEAS/metajam"
     },
