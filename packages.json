@@ -37,7 +37,9 @@
     },
     {
         "package": "redland",
-        "url": "https://github.com/DataONEorg/redland-bindings/R/redland"
+        "url": "https://github.com/ropensci/redland-bindings",
+        "branch": "master",
+        "subdir": "R/redland"
     },
     {
         "package": "codyn",
